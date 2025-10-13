@@ -55,7 +55,7 @@ Commit dengan pesan: week1-setup-hello-pos.
 2. HelloOOP
 
   public static void main(String[] args) {
-        mahasiswa m = new mahasiswa("Bunga Maura Aulya", "240320562");
+        mahasiswa m = new mahasiswa("Dian Nur Safitri", "240320563");
         m.sapa();
         Produk[] daftar = {
          new Produk("Benih Anggur", 25000),
@@ -73,7 +73,7 @@ Commit dengan pesan: week1-setup-hello-pos.
         System.out.println("Total harga semua produk: " + total);
 
 ---
-
+```
 ## Hasil Eksekusi
 ( 
 [Screenshot hasil Procedural]
@@ -87,7 +87,7 @@ Commit dengan pesan: week1-setup-hello-pos.
 
 https://github.com/diannursafitrii08-byte/oop-202501-240320563/tree/main/praktikum/week1-setup-hello-pos/screenshots )
 
-```
+
 ---
 
 ## Analisis
