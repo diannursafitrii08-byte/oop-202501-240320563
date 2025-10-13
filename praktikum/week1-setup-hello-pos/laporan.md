@@ -85,6 +85,9 @@ Commit dengan pesan: week1-setup-hello-pos.
 [Screenshot hasil Functional]
 (!(screenshots/HelloFunctional.png))
 )
+https://github.com/diannursafitrii08-byte/oop-202501-240320563/tree/main/praktikum/week1-setup-hello-pos/screenshots
+
+```
 ---
 
 ## Analisis
