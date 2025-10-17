@@ -84,7 +84,7 @@ public static void print(String nama, String nim) {
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
 ![Screenshot hasil week2](screenshots\Screenshot week2.png)
-)
+)https://github.com/diannursafitrii08-byte/oop-202501-240320563/blob/main/praktikum/week2-class-object/screenshots/Screenshot%20week2.png
 ---
 
 ## Analisis
