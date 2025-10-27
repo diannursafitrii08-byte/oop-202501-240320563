@@ -148,7 +148,6 @@ public class MainInheritance {
 ```
 
 ## Hasil Eksekusi
-(![Screenshot hasil week3](screenshots\MainInheritance.png))
 https://github.com/diannursafitrii08-byte/oop-202501-240320563/blob/main/praktikum/week3-inheritance/screenshots/MainInheritance.png
 ---
 
