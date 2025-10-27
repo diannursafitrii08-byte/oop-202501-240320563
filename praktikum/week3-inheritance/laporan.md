@@ -145,6 +145,7 @@ public class MainInheritance {
 }
 
 ---
+```
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
