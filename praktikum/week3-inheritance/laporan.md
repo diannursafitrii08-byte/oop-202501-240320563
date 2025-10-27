@@ -2,7 +2,7 @@
 Topik: Inheritance
 
 ## Identitas
-- Nama  : [Dian NUr Safitri]
+- Nama  : [Dian Nur Safitri]
 - NIM   : [240320563]
 - Kelas : [3DSRA]
 
