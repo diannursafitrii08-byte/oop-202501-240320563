@@ -1,8 +1,8 @@
-# Laporan Praktikum Minggu 1 (sesuaikan minggu ke berapa?)
+# Laporan Praktikum Minggu 3
 Topik: Inheritance
 
 ## Identitas
-- Nama  : [Dian NUr Safitri]
+- Nama  : [Dian Nur Safitri]
 - NIM   : [240320563]
 - Kelas : [3DSRA]
 
@@ -145,11 +145,10 @@ public class MainInheritance {
 }
 
 ---
+```
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil week3](screenshots\MainInheritance.png)
-)
+https://github.com/diannursafitrii08-byte/oop-202501-240320563/blob/main/praktikum/week3-inheritance/screenshots/MainInheritance.png
 ---
 
 ## Analisis
