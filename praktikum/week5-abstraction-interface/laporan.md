@@ -1,5 +1,5 @@
 # Laporan Praktikum Minggu 5
-Topik: Abstraction
+Topik: Abstraction-Interface
 
 ## Identitas
 - Nama  : [Dian Nur Safitri]
