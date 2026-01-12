@@ -67,7 +67,7 @@ package com.upb.agripos;
 
 public class MainExceptionDemo {
     public static void main(String[] args) {
-        System.out.println("Hello, I am [Bunga Maura Aulya]-[240320562] (Week9-exception)");
+        System.out.println("Hello, I am [Dian Nur Safitri]-[240320563] (Week9-exception)");
 
         ShoppingCart cart = new ShoppingCart();
         Product p1 = new Product("P01", "Pupuk Organik", 25000, 3);
