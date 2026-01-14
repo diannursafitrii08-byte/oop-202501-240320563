@@ -98,9 +98,8 @@ public class MainExceptionDemo {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](/oop-202501-240320563/praktikum/week9-exception-handling/screenshots/MainExceptionDemo.png)
-)
+<img width="1228" height="266" alt="MainExceptionDemo" src="https://github.com/user-attachments/assets/29842505-677e-45f1-b21e-1a5dda919fc8" />
+
 ---
 
 ## Analisis
