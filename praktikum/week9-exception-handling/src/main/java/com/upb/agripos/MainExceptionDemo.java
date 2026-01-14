@@ -1,6 +1,6 @@
 public class MainExceptionDemo {
     public static void main(String[] args) {
-        System.out.println("Hello, I am [Febiana Saputri]-[240320569] (Week9-exception)");
+        System.out.println("Hello, I am [Dian Nur Safitri]-[240320563] (Week9-exception)");
 
         ShoppingCart cart = new ShoppingCart();
         Product p1 = new Product("P01", "Pupuk Organik", 25000, 3);
