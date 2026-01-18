@@ -74,9 +74,8 @@ public class AppJavaFX extends Application {
 ---
 
 ## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](screenshots/hasil.png)
-)
+![alt text](appmain.png)
+![alt text](junitresult.png)
 ---
 
 ## Analisis
@@ -95,6 +94,7 @@ public class AppJavaFX extends Application {
 ---
 
 ## Kesimpulan
+
 Tuliskan kesimpulan dari praktikum minggu Praktikum Bab 14 berhasil mengintegrasikan konsep OOP, database, dan GUI ke dalam satu aplikasi yang utuh. Dengan menerapkan arsitektur berlapis, penggunaan Collections, exception handling, design pattern, dan unit testing, aplikasi menjadi lebih terstruktur, mudah dipelihara, dan siap dikembangkan lebih lanjut.
 
 ---
