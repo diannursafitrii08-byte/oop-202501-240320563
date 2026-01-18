@@ -93,16 +93,7 @@ public class AppJavaFX extends Application {
 ---
 
 ## Kesimpulan
+
 Dengan menggunakan JavaFX dan pendekatan MVC, aplikasi menjadi lebih interaktif, terstruktur, dan mudah dikembangkan. Pemisahan antara View, Controller, dan Service membuat logika program lebih rapi serta memudahkan integrasi antara antarmuka pengguna dan proses backend.
 
 ---
-
-## Quiz
-(1. [Tuliskan kembali pertanyaan 1 dari panduan]  
-   **Jawaban:** …  
-
-2. [Tuliskan kembali pertanyaan 2 dari panduan]  
-   **Jawaban:** …  
-
-3. [Tuliskan kembali pertanyaan 3 dari panduan]  
-   **Jawaban:** …  )

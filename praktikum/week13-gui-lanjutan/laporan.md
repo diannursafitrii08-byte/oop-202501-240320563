@@ -100,5 +100,7 @@ public class AppJavaFX extends Application {
 ---
 
 ## Kesimpulan
+
 Praktikum Week 13 berhasil mengintegrasikan GUI JavaFX dengan database menggunakan TableView dan pola DAO. Dengan penerapan lambda expression dan pemisahan tanggung jawab antara View, Service, dan DAO, aplikasi menjadi lebih terstruktur, mudah dikembangkan, serta sesuai dengan prinsip pemrograman berorientasi objek dan arsitektur berlapis.
+
 ---
